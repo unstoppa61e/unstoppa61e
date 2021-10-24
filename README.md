@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">, I'm unstoppa61e.
 <img alt="github profile summary card" height="224px" src="https://raw.githubusercontent.com/unstoppa61e/unstoppa61e/main/profile-summary-card-output/dracula/0-profile-details.svg" />
 <p align="left">
-<img alt="Top Langs" height="181px" src="https://raw.githubusercontent.com/unstoppa61e/unstoppa61e/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+<img alt="Top Langs" height="181px" src="https://raw.githubusercontent.com/unstoppa61e/unstoppa61e/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
 <img alt="github stats" height="181px" src="https://github-readme-stats.vercel.app/api?username=unstoppa61e&count_private=true&show_icons=true&theme=cobalt&hide_border=true" />
 </p>
 
